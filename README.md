@@ -1,7 +1,7 @@
 # Uncodixify
 
 <p align="center">
-  <img src="images/thumb.jpg" alt="Uncodixify" width="80%">
+  <img src="images/thumb.jpg" alt="Uncodixify" width="100%">
 </p>
 
 
